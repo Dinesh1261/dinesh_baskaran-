@@ -46,7 +46,7 @@ Empowering intelligent systems through strategic data science and robust AI engi
 ---
 
 📫 **Let’s Connect**
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/dineshbaskaran/](https://www.linkedin.com/in/dinesh-baskaran-88a5121a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/dinesh-baskaran-88a5121a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app])
 
 ---
 
