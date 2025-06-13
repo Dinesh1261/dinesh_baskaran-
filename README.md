@@ -1,4 +1,4 @@
-# dinesh_baskaran-
+# dinesh_baskaran
 Data Scientist | RAG Architect | Automating HR Intelligence with Python, ChromaDB &amp; LLMs | Building AI that understands and responds.
 
 <h1 align="center">Hi there, I'm Dinesh 👋</h1>
@@ -20,13 +20,16 @@ Empowering intelligent systems through strategic data science and robust AI engi
 ---
 
  **Tech Stack**
+🛠️ **Tech Stack**
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-05122A?style=flat)
 ![FAISS](https://img.shields.io/badge/-FAISS-05122A?style=flat)
+![FlowiseAI](https://img.shields.io/badge/-Flowise-05122A?style=flat&logo=flowise)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-05122A?style=flat&logo=huggingface)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)
+
 
 ---
 
