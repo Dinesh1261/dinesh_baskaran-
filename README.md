@@ -2,7 +2,7 @@
 Data Scientist | RAG Architect | Automating HR Intelligence with Python, ChromaDB &amp; LLMs | Building AI that understands and responds.
 
 <h1 align="center">Hi there, I'm Dinesh 👋</h1>
-<h3 align="center">Senior Python Architect | Data Scientist | AI-Driven Systems Engineer</h3>
+<h3 align="center"> Data Scientist </h3>
 
 ---
 
